@@ -17,6 +17,7 @@ if (colorWheel.includes(favcolor)) {
 }
 else{
     alert(notFound + " was not found")
+    console.log( notFound, ' was not found')
 }
 
 
